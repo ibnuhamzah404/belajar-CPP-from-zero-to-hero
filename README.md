@@ -1,2 +1,2 @@
 # belajar-CPP-from-zero-to-hero
-belajar c++ dari dasar
+repo ini berisikan tentang dokumentasi pembelajaran c++ dari dasar.
